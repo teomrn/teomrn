@@ -1,5 +1,5 @@
 ## À propos de moi
-Salut 👋 Moi c’est teomrn, développeur Java depuis 2 ans, principalement sur des projets liés à Minecraft.
+Salut 👋, moi c'est teomrn, développeur Java depuis 2 ans, spécialisé principalement dans des projets liés à Minecraft. J’utilise également Python pour divers développements complémentaires.
 
 ## ❱ Mon environnement de travail
 
