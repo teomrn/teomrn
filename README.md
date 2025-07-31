@@ -1,7 +1,7 @@
-## About me
+## À propos de moi
 Salut 👋 Moi c’est teomrn, développeur Java depuis 2 ans, principalement sur des projets liés à Minecraft.
 
-## ❱ My working environment
+## ❱ Mon environnement de travail
 
 ![image](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-1E90FF?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -10,7 +10,7 @@ Salut 👋 Moi c’est teomrn, développeur Java depuis 2 ans, principalement su
 ![image](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
 ![image](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-## ❱ Languages, Framework, Technologies & Database
+## ❱ Langages, Frameworks, Technologies & Bases de données
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" height="32" alt="Java" style="margin-right: 4px">
@@ -21,7 +21,6 @@ Salut 👋 Moi c’est teomrn, développeur Java depuis 2 ans, principalement su
   <img src="https://img.shields.io/badge/Discord.js-5865F2?logo=discord&logoColor=white" height="32" alt="Discord.js" style="margin-right: 4px">
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white" height="32" alt="GitHub Actions" style="margin-right: 4px">
 </p>
-
 
 ## ❱ Contact
 
